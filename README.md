@@ -7,6 +7,7 @@ Enfocado en adquirir una base sólida y buenas prácticas, además de explorar i
 programación y electrónica. 
 
 <br>
+<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
 Actualmente:
 - 🔭 Puliendo los fundamentos de Java
 - 🌱 Construyendo proyectos
