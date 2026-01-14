@@ -1,5 +1,5 @@
 ## Hola, 👋  Soy Victor Cruz
-### Ing. Eléctrico Electrónico | Java Backend | 
+### Ing. Eléctrico Electrónico | Java Backend | C/C++
 
 Desarrollador Java Backend en formación.  
 Enfocado en adquirir una base sólida y buenas prácticas, además de explorar ideas combinando  
